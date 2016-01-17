@@ -1,0 +1,3 @@
+vagrant:
+    install: '1'
+    vm: { base_box: trusty64, hostname: box, ip: 192.168.0.99, memory: '1024', sharedfolder: ./, syncType: '0' }
